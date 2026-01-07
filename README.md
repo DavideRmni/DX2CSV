@@ -1,6 +1,6 @@
 # DX Spectra Converter 📉
 
-<img width="998" height="1155" alt="Screenshot 2026-01-07 172125" src="https://github.com/user-attachments/assets/11a4da7a-aba2-496e-8663-394477093889" />
+<img width="698" height="808" alt="Screenshot 2026-01-07 172125" src="https://github.com/user-attachments/assets/11a4da7a-aba2-496e-8663-394477093889" />
 
 ## 📝 Overview
 **DX Spectra Converter** is a GUI-based tool designed to batch convert spectral data files (in `.dx` / JCAMP-DX format) into a unified CSV format. 
@@ -34,13 +34,7 @@ Standard libraries used: `tkinter`, `os`, `re`, `pathlib`, `threading`.
 
 ## 🔧 Installation
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/tuo-username/dx-spectra-converter.git](https://github.com/tuo-username/dx-spectra-converter.git)
-    cd dx-spectra-converter
-    ```
-
-2.  **Install dependencies:**
+**Install dependencies:**
     ```bash
     pip install pandas numpy
     ```
